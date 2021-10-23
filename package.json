@@ -2,7 +2,7 @@
   "private": true,
   "displayName": "Tisoutec BBQ Thermometer",
   "name": "homebridge-tisoutec-bbq-thermometer",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "Homebridge plugin for Tisoutec bluetooth meat thermometer.",
   "license": "Apache-2.0",
   "repository": {
